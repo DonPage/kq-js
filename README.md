@@ -1,4 +1,4 @@
-# kq-js [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# kq-js [![NPM version][npm-image]][npm-url] 
 > Modern javascript framework using native browser utilities
 
 ## Installation
